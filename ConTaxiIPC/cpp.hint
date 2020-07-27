@@ -1,0 +1,2 @@
+#define CONTAXIIPC_API __declspec(dllexport)
+#define CONTAXIIPC_API __declspec(dllimport)

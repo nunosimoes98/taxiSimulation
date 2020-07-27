@@ -1,0 +1,9 @@
+#pragma once
+
+#define DEFAULT_NUM_PASSENGERS 10
+#define DEFAULT_NUM_TAXIS 10
+#define INITIAL_TAXI_SPEED 1
+#define MIN_SIZE_MAP 50
+#define DEFAULT_MAP_FILENAME "map.txt"
+#define DEFAULT_WAIT_FOR_TAXIS 10
+#define _SECOND -10000000
